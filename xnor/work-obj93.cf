@@ -1,0 +1,7 @@
+v 4
+file . "xnor_tb.vhdl" "015d6153bc099a6a17b0a7b4a5dd11001200538f" "20220811014832.029":
+  entity xnorl_tb at 1( 0) + 0 on 17;
+  architecture test of xnorl_tb at 6( 82) + 0 on 18;
+file . "xnor.vhdl" "75e0f5fbbedd7ec66f69b4d454ea6d42df02eb60" "20220811014821.904":
+  entity xnorl at 1( 0) + 0 on 15;
+  architecture behave of xnorl at 11( 118) + 0 on 16;

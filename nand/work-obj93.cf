@@ -1,0 +1,7 @@
+v 4
+file . "nand_tb.vhdl" "ea02dc8742de5f9a69298d5cf1253534194a2ce7" "20220816113936.477":
+  entity nandl_tb at 1( 0) + 0 on 17;
+  architecture test of nandl_tb at 6( 82) + 0 on 18;
+file . "nand.vhdl" "8b345f4ab8d1819cc688fbf86bb23502b8496283" "20220816113932.795":
+  entity nandl at 1( 0) + 0 on 15;
+  architecture behave of nandl at 11( 118) + 0 on 16;

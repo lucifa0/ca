@@ -1,0 +1,7 @@
+v 4
+file . "parallelsub.vhdl" "44d5e88ffbaa5876dacdb903a7952088c7f054f5" "20221116030642.027":
+  entity ps at 1( 0) + 0 on 41;
+  architecture behave of ps at 11( 202) + 0 on 42;
+file . "parallelsub_tb.vhdl" "e5b3f311d6cfc14071ec6087b06875a9330be54c" "20221116030644.819":
+  entity ps_tb at 1( 0) + 0 on 43;
+  architecture test of ps_tb at 6( 76) + 0 on 44;

@@ -1,0 +1,49 @@
+$date
+  Wed Aug 31 09:00:30 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # d $end
+$var reg 1 $ br $end
+$scope module half_substractor $end
+$var reg 1 % a $end
+$var reg 1 & b $end
+$var reg 1 ' d $end
+$var reg 1 ( br $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+#1000000
+1"
+1#
+1$
+1&
+1'
+1(
+#2000000
+1!
+0"
+0$
+1%
+0&
+0(
+#3000000
+1"
+0#
+1&
+0'
+#4000000

@@ -1,0 +1,7 @@
+v 4
+file . "or_tb.vhdl" "bc4566b7cde70ff5a47676d0b756cf426b35a6cc" "20220810123118.379":
+  entity orl_tb at 1( 0) + 0 on 17;
+  architecture test of orl_tb at 7( 80) + 0 on 18;
+file . "or.vhdl" "0401e9e9c4a61c2424189c1ccf136ffb6d5f99c1" "20220810123717.987":
+  entity orl at 1( 0) + 0 on 19;
+  architecture behave of orl at 10( 111) + 0 on 20;

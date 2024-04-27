@@ -1,0 +1,50 @@
+$date
+  Wed Nov 16 09:39:32 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 4 ! a[3:0] $end
+$var reg 4 " s[3:0] $end
+$var reg 1 # cin $end
+$var reg 1 $ cout $end
+$scope module parity_incrementer $end
+$var reg 4 % a[3:0] $end
+$var reg 4 & s[3:0] $end
+$var reg 1 ' cin $end
+$var reg 1 ( cout $end
+$upscope $end
+$enddefinitions $end
+#0
+b0101 !
+b0110 "
+1#
+0$
+b0101 %
+b0110 &
+1'
+0(
+#20000000
+b1101 !
+b1110 "
+b1101 %
+b1110 &
+#40000000
+b1100 !
+b1101 "
+b1100 %
+b1101 &
+#60000000
+b1000 !
+b1001 "
+b1000 %
+b1001 &
+#80000000
+b0000 !
+b0001 "
+b0000 %
+b0001 &
+#100000000

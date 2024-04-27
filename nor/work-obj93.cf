@@ -1,0 +1,7 @@
+v 4
+file . "nor_tb.vhdl" "d328e536130a0c200ce068cf156d00a9ff0d56f4" "20220811014004.410":
+  entity norl_tb at 1( 0) + 0 on 13;
+  architecture test of norl_tb at 6( 80) + 0 on 14;
+file . "nor.vhdl" "f97293d6f2f334f695ce6f1554c57f3866ed6d4a" "20220811014000.913":
+  entity norl at 1( 0) + 0 on 11;
+  architecture behave of norl at 11( 116) + 0 on 12;

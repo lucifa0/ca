@@ -1,0 +1,7 @@
+v 4
+file . "hs_tb.vhdl" "dd39c89f6b03920cdd091b0f6c3cad1365bd5c47" "20220831031459.373":
+  entity hs_tb at 1( 0) + 0 on 13;
+  architecture test of hs_tb at 6( 76) + 0 on 14;
+file . "hs.vhdl" "1cc369c48fc5c70a387044612e370b0bc4463c17" "20220831031454.388":
+  entity hs at 1( 0) + 0 on 11;
+  architecture behave of hs at 11( 116) + 0 on 12;
